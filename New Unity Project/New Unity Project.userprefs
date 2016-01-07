@@ -1,12 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\mountain\tree.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\TheWarOfTanks\Assets\script\camera\camera.cs">
     <Files>
-      <File FileName="Assets\script\mountain\Manue\manue.cs" Line="8" Column="29" />
-      <File FileName="Assets\script\mountain\slipeCamera.cs" Line="1" Column="1" />
-      <File FileName="Assets\script\script.cs" Line="1" Column="1" />
-      <File FileName="Assets\script\mountain\cube.cs" Line="14" Column="18" />
-      <File FileName="Assets\script\mountain\tree.cs" Line="16" Column="27" />
+      <File FileName="..\TheWarOfTanks\Assets\script\camera\camera.cs" Line="12" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
