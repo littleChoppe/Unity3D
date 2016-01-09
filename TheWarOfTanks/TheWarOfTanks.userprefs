@@ -1,8 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\camera\tankCamera.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\shell.cs">
     <Files>
-      <File FileName="Assets\script\camera\tankCamera.cs" Line="9" Column="11" />
+      <File FileName="Assets\script\camera\tankCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\tankWeapon.cs" Line="30" Column="22" />
+      <File FileName="Assets\script\shell.cs" Line="10" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
