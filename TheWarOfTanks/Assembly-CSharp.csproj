@@ -45,10 +45,13 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\script\AItank.cs" />
      <Compile Include="Assets\script\camera\tankCamera.cs" />
+     <Compile Include="Assets\script\layerManager.cs" />
      <Compile Include="Assets\script\shell.cs" />
      <Compile Include="Assets\script\tank.cs" />
      <Compile Include="Assets\script\tankWeapon.cs" />
+     <Compile Include="Assets\script\unit.cs" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />

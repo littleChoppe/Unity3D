@@ -7,6 +7,9 @@ public class tankCamera : MonoBehaviour {
 
 	// Update is called once per frame
 	void LateUpdate () {
+		if (!target)
+			return;
+
 		transform.position = target.position;
 	}
 }
